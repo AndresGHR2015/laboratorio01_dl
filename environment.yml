@@ -1,0 +1,11 @@
+name: lab01_dl
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyter
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - seaborn
+prefix: /opt/homebrew/Caskroom/miniforge/base/envs/lab01_dl
