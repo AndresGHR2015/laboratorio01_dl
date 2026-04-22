@@ -8,4 +8,5 @@ dependencies:
   - matplotlib
   - pandas
   - seaborn
+  - numpy[version='<2.0']
 prefix: /opt/homebrew/Caskroom/miniforge/base/envs/lab01_dl
